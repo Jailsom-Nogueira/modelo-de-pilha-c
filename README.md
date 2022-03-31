@@ -2,8 +2,11 @@
 
 In this material, the topic of Data Structure is approached using a stack model written in **C language**.
 
+### **How to run it**
+Download the file from github and ``Run`` it in any C compatible IDE.
+
 ### **How to test it**
-After compiling the code, run the generated .exe file.
+After compiling the code, run the generated EstruturaDeDadosEmC.exe file.
 A command console will open where it will be possible to interact with the application.
 ### **Comands**
 Once compiled, the project can be executed and, through a console, receive commands for the following instructions:
